@@ -522,6 +522,11 @@
     github = "aszlig";
     name = "aszlig";
   };
+  atkinschang = {
+    email = "atkinschang@gmail.com";
+    github = "AtkinsChang";
+    name = "Atkins Chang";
+  };
   athas = {
     email = "athas@sigkill.dk";
     github = "athas";
